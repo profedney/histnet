@@ -2,15 +2,15 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
+    background-color: #333; /* Cor de fundo escuro */
+    color: #fff; /* Cor das letras claras */
   }
   
   h1 {
-    color: #333;
     text-align: center;
   }
   
   p {
-    color: #666;
     line-height: 1.5;
   }
   
